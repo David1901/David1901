@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source comunities that can help me develop myself the more.
 - 📫 How to reach me on tge following medium,
 david.andoh-acquah@turntabl.io
-https://www.linkedin.com/in/david-andoh-acquah-339aa5212/
+
 
 <!---
 David1901/David1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
